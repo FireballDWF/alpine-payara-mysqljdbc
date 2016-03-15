@@ -1,4 +1,4 @@
-FROM fireballdwf/alpine-payara-logstash
+FROM fireballdwf/alpine-payara:latest
 
 # Maintainer
 # ----------
